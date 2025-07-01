@@ -1,5 +1,5 @@
 # Option-Pricing-DNN
-Deep Neural Network Implementation for pricing american options - Part of CFRM 521 Machine Learning for Finance
+Deep Neural Network Implementation for pricing american options - developed as part of the CFRM 521: Machine Learning for Finance course at the University of Washington
 
 ## Background
 As part of a group project for CFRM 521, I was tasked with implementing a Deep Neural Network Multi-layer perceptron model for pricing american options. In this repository I have attached the code detailing my DNN model's architecture along with my reasoning and optimization process. Below, I have attached the data source and code I used for filtering the data into a github repository which can be found here: https://github.com/stevedemirev/CFRM521-ProjectData under the `filtered` folder
